@@ -31,7 +31,7 @@ workshop
 
 git clone https://github.com/javaServerFun/badFibonacci
 
-se [README.md](https://github.com/javaServerFun/badFibonacci)
+see [README.md](https://github.com/javaServerFun/badFibonacci)
 
 Try to solve it
 
@@ -46,27 +46,42 @@ Start again
 git clone https://github.com/javaServerFun/betterBadFibonacci
 
 
-see description README.md
+see description [README.md](https://github.com/javaServerFun/betterBadFibonacci) 
 
 solve
 
 When You have problem use `solution` branch.
 
 
+## Lecture
 
-Non blocking talk (odp)
-
-
-Advanced exercise
+[Fun Server](funServer_roche.pdf)
 
 
-# Toys
-
-Kotlin
-
-VAVR
-
-Monads
+###  Questions
 
 
-# Examples
+## Advanced exercise
+
+`git clone https://github.com/javaServerFun/croco`
+
+See description [README.md](https://github.com/javaServerFun/croco) 
+
+
+### Domain
+
+### Keep game state
+
+### Promises
+
+### Testing
+
+
+# Advanced topics/Questions
+
+Persistence, 
+Security,
+Testing,
+WebSockets
+
+See [Ratpong](https://github.com/javaFunAgain/ratpong)
