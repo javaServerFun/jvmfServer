@@ -9,7 +9,7 @@ workshop
 - ask questions
 
 
-## Agenda
+# Agenda
 - Introduction who is who
 - Intro exercise - into non blockiong (1h)
 - Non blocking architecture / functional servers why - lecture (1h)
@@ -21,7 +21,7 @@ workshop
 
 
 
-## Intro exercise
+# Intro exercise
 
 ### A  way of pain
 3rd worst  possible implementation of fibonacci
@@ -53,7 +53,7 @@ solve
 When You have problem use `solution` branch.
 
 
-## Lecture
+# Lecture
 
 [Fun Server](funServer_roche.pdf)
 
@@ -65,7 +65,7 @@ When You have problem use `solution` branch.
 
 `git clone https://github.com/javaServerFun/croco`
 
-See description [README.md](https://github.com/javaServerFun/croco) 
+See description [README.m<d](https://github.com/javaServerFun/croco) 
 
 
 ### Domain
